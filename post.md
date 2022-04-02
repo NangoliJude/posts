@@ -1,7 +1,4 @@
 # Judder When Panning
-Judder accurrs when you shoot 24P/25P mode for the primary time,  usually the movement in the shots shows up exceptionally “jerky,” and not smooth at all. For those unaccustomed to Cinematic Videos, this can be unsettling; numerous times you may think something wrong with your camera. There’s nothing off-base with the camera. What’s happening may be a perceptual difference between what you are familiar with (50- or 60-fps video)  There’s a difference in what acamera  sees",
-  "* I had an app that got [10k downloads](/blog/photosec) on Windows Phone Store when I was 16",
-  "* I do programming [livestreams](https://www.youtube.com/watch?v=WfyQF2xyAHE&list=PLNkfllcUq3AkdeD4Aqp_Z2AIGyyF00_d8&index=124) on Twitch",
-  "* I used to [teach Parkour!](https://www.instagram.com/p/BwzzN5VAK0_/?igshid=1x1mbmak9br4q) I still do it on the weekends",
-  "* I like driving and I occassionally film [car reviews](https://youtu.be/mswvOEI1XiA)",
-  "* I do graphics design and can use the full adobe suite"
+Judder is most prnounceed once you shoot 24p/25p mode, in most cases Judder shots shows up exceptionally jerky and not smooth at all for those unaccustomed to shooting film the see is new and can be unsettling numerous times you'll think that there may be something not appropriate together with your camera theres nothing off-base with the camera whats happening is a perceptual contrast between what the shooter is recognizable with 50- or 60-fps video and what theyre presently using 24-frame or 25-frame video theres a really distinctive see between 24p or 25p and conventional video too known as 60i60p or 50i50p in buddy regions in 24p the camera shoots twenty-four outlines each moment as a film camera does in customary entwining 60i video the camera shoots sixty half-frames per moment the contrast is dramatic the 24p film looks more like a motion picture and the 60i video looks more like a news broadcast separated from the interlap artifacts 60p video renders moment",
+  "* a motion picture and the 60i video looks more like a news broadcast separated from the interlap artifacts 60p video renders moment"",
+ 
