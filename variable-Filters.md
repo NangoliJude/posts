@@ -1,4 +1,4 @@
-# What Is An Nd Filter
+# What Is A Variable Nd Filter (VND Filters)
 
     
 Variable ND filters are circular, and simply rotate them to change the intensity of the shading effect. With variable ND, photographers can simply rotate the filter to achieve the desired effect like a polarizer.
