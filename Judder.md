@@ -1,4 +1,6 @@
 # Judder When Panning
 Judder is most prnounceed once you shoot 24p/25p mode, in most cases Judder shots shows up exceptionally jerky and not smooth at all for those unaccustomed to shooting film the see is new and can be unsettling numerous times you'll think that there may be something not appropriate together with your camera theres nothing off-base with the camera whats happening is a perceptual contrast between what the shooter is recognizable with 50- or 60-fps video and what theyre presently using 24-frame or 25-frame video theres a really distinctive see between 24p or 25p and conventional video too known as 60i60p or 50i50p in buddy regions in 24p the camera shoots twenty-four outlines each moment as a film camera does in customary entwining 60i video the camera shoots sixty half-frames per moment the contrast is dramatic the 24p film looks more like a motion picture and the 60i video looks more like a news broadcast separated from the interlap artifacts 60p video renders moment",
   "* a motion picture and the 60i video looks more like a news broadcast separated from the interlap artifacts 60p video renders moment"",
+  
+  ![alt text](https://raw.githubusercontent.com/NangoliJude/entypo-icons/master/packages/entypo-icons-core/src/svgs/aircraft-landing.svg)
  
