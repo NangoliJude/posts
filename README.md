@@ -54,6 +54,8 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
+![alt text](https://raw.githubusercontent.com/NangoliJude/entypo-icons/master/packages/entypo-icons-core/src/svgs/aircraft-landing.svg)
+
 ## Extended Syntax
 
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
